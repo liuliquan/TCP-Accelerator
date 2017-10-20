@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="TCPAccelerator"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/root/CLionProjects/TCPAccelerator/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/root/CLionProjects/TCPAccelerator/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/root/CLionProjects/TCPAccelerator/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/root/CLionProjects/TCPAccelerator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/root/CLionProjects/TCPAccelerator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/root/CLionProjects/TCPAccelerator/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/root/CLionProjects/TCPAccelerator/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/root/CLionProjects/TCPAccelerator/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/root/CLionProjects/TCPAccelerator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/root/CLionProjects/TCPAccelerator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/root/CLionProjects/TCPAccelerator/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/root/CLionProjects/TCPAccelerator/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/root/CLionProjects/TCPAccelerator/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/root/CLionProjects/TCPAccelerator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/root/CLionProjects/TCPAccelerator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TCPAccelerator">
+				<Option output="/root/CLionProjects/TCPAccelerator/cmake-build-debug/TCPAccelerator" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/CLionProjects/TCPAccelerator/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/root/CLionProjects/TCPAccelerator/cmake-build-debug/Makefile&quot;  VERBOSE=1 TCPAccelerator"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/root/CLionProjects/TCPAccelerator/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/root/CLionProjects/TCPAccelerator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/root/CLionProjects/TCPAccelerator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TCPAccelerator/fast">
+				<Option output="/root/CLionProjects/TCPAccelerator/cmake-build-debug/TCPAccelerator" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/CLionProjects/TCPAccelerator/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/root/CLionProjects/TCPAccelerator/cmake-build-debug/Makefile&quot;  VERBOSE=1 TCPAccelerator/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/root/CLionProjects/TCPAccelerator/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/root/CLionProjects/TCPAccelerator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/root/CLionProjects/TCPAccelerator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/root/CLionProjects/TCPAccelerator/headerFiles/LanDataQueue.h">
+			<Option target="TCPAccelerator"/>
+		</Unit>
+		<Unit filename="/root/CLionProjects/TCPAccelerator/headerFiles/LanOrderQueue.h">
+			<Option target="TCPAccelerator"/>
+		</Unit>
+		<Unit filename="/root/CLionProjects/TCPAccelerator/headerFiles/ReadAndBuffer.h">
+			<Option target="TCPAccelerator"/>
+		</Unit>
+		<Unit filename="/root/CLionProjects/TCPAccelerator/headerFiles/SHAHashing.h">
+			<Option target="TCPAccelerator"/>
+		</Unit>
+		<Unit filename="/root/CLionProjects/TCPAccelerator/headerFiles/constants.h">
+			<Option target="TCPAccelerator"/>
+		</Unit>
+		<Unit filename="/root/CLionProjects/TCPAccelerator/headerFiles/deletedIdBST.h">
+			<Option target="TCPAccelerator"/>
+		</Unit>
+		<Unit filename="/root/CLionProjects/TCPAccelerator/headerFiles/deletedIdMinHeap.h">
+			<Option target="TCPAccelerator"/>
+		</Unit>
+		<Unit filename="/root/CLionProjects/TCPAccelerator/headerFiles/headers.h">
+			<Option target="TCPAccelerator"/>
+		</Unit>
+		<Unit filename="/root/CLionProjects/TCPAccelerator/headerFiles/types.h">
+			<Option target="TCPAccelerator"/>
+		</Unit>
+		<Unit filename="/root/CLionProjects/TCPAccelerator/headerFiles/writeInLogger.h">
+			<Option target="TCPAccelerator"/>
+		</Unit>
+		<Unit filename="/root/CLionProjects/TCPAccelerator/lib/LanDataQueue.c">
+			<Option target="TCPAccelerator"/>
+		</Unit>
+		<Unit filename="/root/CLionProjects/TCPAccelerator/lib/LanOrderQueue.c">
+			<Option target="TCPAccelerator"/>
+		</Unit>
+		<Unit filename="/root/CLionProjects/TCPAccelerator/lib/SHAHashing.c">
+			<Option target="TCPAccelerator"/>
+		</Unit>
+		<Unit filename="/root/CLionProjects/TCPAccelerator/lib/deletedIdBST.c">
+			<Option target="TCPAccelerator"/>
+		</Unit>
+		<Unit filename="/root/CLionProjects/TCPAccelerator/lib/writeInLogger.c">
+			<Option target="TCPAccelerator"/>
+		</Unit>
+		<Unit filename="/root/CLionProjects/TCPAccelerator/main.c">
+			<Option target="TCPAccelerator"/>
+		</Unit>
+		<Unit filename="/root/CLionProjects/TCPAccelerator/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

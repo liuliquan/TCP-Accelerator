@@ -1,0 +1,1 @@
+/usr/bin/cc  -pthread -g   CMakeFiles/TCPAccelerator.dir/main.c.o CMakeFiles/TCPAccelerator.dir/lib/deletedIdBST.c.o CMakeFiles/TCPAccelerator.dir/lib/LanDataQueue.c.o CMakeFiles/TCPAccelerator.dir/lib/LanOrderQueue.c.o CMakeFiles/TCPAccelerator.dir/lib/writeInLogger.c.o CMakeFiles/TCPAccelerator.dir/lib/SHAHashing.c.o  -o TCPAccelerator 

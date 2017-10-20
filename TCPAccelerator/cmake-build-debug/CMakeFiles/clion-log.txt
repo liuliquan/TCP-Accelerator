@@ -1,0 +1,4 @@
+/home/entc12/Desktop/FYP/clion-2017.2.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /root/CLionProjects/TCPAccelerator
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /root/CLionProjects/TCPAccelerator/cmake-build-debug
